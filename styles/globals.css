@@ -1,16 +1,8 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,900;1,900&display=swap');
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;500&display=swap');
+*,
+*::after,
+*::before {
   box-sizing: border-box;
 }
